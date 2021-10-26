@@ -1,2 +1,3 @@
-# Genesis
-Genesys
+# © Genesis, 
+Genesys®.
+PS - "esc" = CMD.exe 
